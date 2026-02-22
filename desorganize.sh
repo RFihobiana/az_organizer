@@ -1,10 +1,12 @@
 #!/usr/bin/env bash
-set -e 
 
 : <<'END_DOC'
 
 =head1 NAME
 desorganize - Desorganize an organized file
+
+=head1 WARNING
+    organizer doesn't work with cached file
 
 =cut
 
