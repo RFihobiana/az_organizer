@@ -14,5 +14,8 @@ organize.sh
 ls
 
 # output: A B C D ... Z
+
+# Show documentation(make sure you have Perl installed on your computer)
+perldoc organize.sh
 ```
 
